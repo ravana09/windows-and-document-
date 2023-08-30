@@ -1,0 +1,22 @@
+Window   
+The window object represents an open window in a browser    
+The window is a separate tab in the browser.
+The Window is a global object .which is available for anyone in  the world.
+The Window object represent the browser’s window .
+The Window object supports all browser.
+The Window as a much possibilities .
+The window does not work after the browser.
+
+
+Document
+The document object is the object of the window which is reference of the browser of the window..
+We can use the document in the window .
+The document object is consist of the HTML  elements.
+The document object is consist of various operation of the window .
+As long as the window is open the document consist of the window .
+The document is nothing but the code inside the window .
+
+
+
+
+
